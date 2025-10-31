@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710857774555",
+    "project_id": "be-smart-project-55e73",
+    "storage_bucket": "be-smart-project-55e73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710857774555:android:7a18060e32edf0cb53c3fe",
+        "android_client_info": {
+          "package_name": "com.example.besmart_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710857774555-rf9rrq88ga2ocdnpvrdcqf73ts2tsvv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACz5zhtJxBoDDpFw8m3xllgsqsOWUwNfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710857774555-rf9rrq88ga2ocdnpvrdcqf73ts2tsvv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
