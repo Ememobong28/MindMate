@@ -43,3 +43,41 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# macOS
+.DS_Store
+
+# Python
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Node / general JS (if present)
+node_modules/
+
+# Flutter / Android / iOS
+.buildlog/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+pubspec.lock
+build/
+.ios/
+.android/
+.gradle/
+.idea/
+*.iml
+DerivedData/
+
+# Logs & misc
+*.log
+coverage/
+dist/
+
