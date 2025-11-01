@@ -8,6 +8,8 @@
 <img width="1387" height="752" alt="Screenshot 2025-10-31 at 8 03 54 PM" src="https://github.com/user-attachments/assets/2dbee254-81cc-4d75-9d57-c1f668fc7ead" />
 <img width="1368" height="764" alt="Screenshot 2025-10-31 at 8 04 04 PM" src="https://github.com/user-attachments/assets/87f5e639-eb87-4f4e-817f-9e0cfa23c2f2" />
 
+Website Link: https://keen-snickerdoodle-1afea0.netlify.app/
+
 **MindMate** is a privacy-first AI wellness app that helps students prevent burnout through **micro-commitments**, **one-tap buddy check-ins**, and an **AI burnout-risk signal** built from mood, study hours, and sleep.  
 Simple. Supportive. Science-backed.
 
